@@ -1,16 +1,61 @@
-# React + Vite
+# 🚀 Portafolio Web – Ivan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio profesional desarrollado con **React** y **Vite**, enfocado en el desarrollo web moderno, experiencia de usuario (UI/UX) e integración de herramientas de inteligencia artificial.
 
-Currently, two official plugins are available:
+Este proyecto funciona tanto como vitrina profesional como espacio de documentación y experimentación técnica.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Demo
+🔗 https://portafolio-web.vercel.app 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Sobre el proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Este proyecto fue creado como un **portafolio personal** y una **plataforma pensada para desarrolladores**.  
+Aquí comparto proyectos reales, experiencias y soluciones aplicadas en el desarrollo web moderno, utilizando tecnologías actuales como **React**, **TailwindCSS** y herramientas de **inteligencia artificial**.
+
+El objetivo principal es:
+
+- Dar a conocer mi trabajo profesional
+- Documentar procesos reales de desarrollo
+- Ayudar a desarrolladores principiantes a integrar IA en su flujo de trabajo
+- Mejorar la productividad y la calidad del código
+- Construir aplicaciones web escalables siguiendo buenas prácticas
+
+Este espacio también funciona como un **laboratorio de ideas**, donde se muestran proyectos, experimentos, dashboards y recursos útiles para quienes están dando sus primeros pasos en el mundo del desarrollo web.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **React**
+- **Vite**
+- **JavaScript (ES6+)**
+- **React Router**
+- **TailwindCSS**
+- **DaisyUI**
+- **Vercel**
+- Herramientas de **Inteligencia Artificial**
+
+---
+
+## ✨ Características principales
+
+- Arquitectura moderna con Vite
+- Navegación SPA con React Router
+- Diseño responsive con enfoque UI/UX
+- Configuración correcta para evitar errores 404 en producción
+- Código limpio, modular y escalable
+- Deploy optimizado en Vercel
+
+---
+
+## 📦 Instalación y uso local
+
+```bash
+git clone https://github.com/portafolioivan/portafolio-web.git
+cd portafolio-web
+npm install
+npm run dev
