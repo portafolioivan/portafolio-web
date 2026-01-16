@@ -7,7 +7,7 @@ Este proyecto funciona tanto como vitrina profesional como espacio de documentac
 ---
 
 ## 🌐 Demo
-🔗 https://portafolio-web.vercel.app 
+🔗 https://portafoliodeivan.vercel.app
 
 ---
 
